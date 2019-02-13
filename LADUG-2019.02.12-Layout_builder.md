@@ -5,6 +5,7 @@
 - Modules you should have included in your Layout Builder recipe:
     - __layouts__ - A usable library of pre configured layouts types.  Start here if you are considering custom layout building.  Everything you need to know about custom layouts is in the code. 
     - __layout_builder_restrictions__ - Gives you the options to restrict entity types for layout building per content type
+   
 - Installation tips:
     - You should be working with the latest Drupal 8.7 release (currently in dev at this time) to get all of the latest patches and features for layout_builder. I am running nightly composer update builds in our dev branch to keep our feature development on track for 8.7 GA release.  
     - Patches to be tracking at this time:
