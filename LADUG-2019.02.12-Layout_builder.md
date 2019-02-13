@@ -29,9 +29,4 @@
         
 ### BADCAMP SESSION I mentioned worth watching
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=1Q4G3BWeKmU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
+[![Sitebuilding 2.0 - BADCAMP 2018](http://img.youtube.com/vi/1Q4G3BWeKmU/0.jpg)](http://www.youtube.com/watch?v=1Q4G3BWeKmU)
