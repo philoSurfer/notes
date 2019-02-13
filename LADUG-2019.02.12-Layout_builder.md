@@ -26,5 +26,12 @@
             }
         },
         ```
+        
+### BADCAMP SESSION I mentioned worth watching
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=1Q4G3BWeKmU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
